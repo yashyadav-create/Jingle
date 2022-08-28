@@ -1,3 +1,16 @@
+
+# Jingle music player react web app
+
+• Conceptualized and built a responsive web application which allows
+user to listen to soothing beats and music for studying and relaxing
+
+• Built with ReactJS and Javascript ES6 with the combination of SASS
+and HTML5
+![Screenshot (993)](https://user-images.githubusercontent.com/70959046/187061586-3169d7d7-c75a-4d70-8900-e55947be881d.png)
+![Screenshot (994)](https://user-images.githubusercontent.com/70959046/187061589-2625bf0f-1afe-40a4-ab91-06600c20e775.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
