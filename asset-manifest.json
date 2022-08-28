@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jingle/static/css/main.fd2db6b0.css",
+    "main.js": "/Jingle/static/js/main.64edb5e6.js",
+    "static/js/787.c90ba35f.chunk.js": "/Jingle/static/js/787.c90ba35f.chunk.js",
+    "index.html": "/Jingle/index.html",
+    "main.fd2db6b0.css.map": "/Jingle/static/css/main.fd2db6b0.css.map",
+    "main.64edb5e6.js.map": "/Jingle/static/js/main.64edb5e6.js.map",
+    "787.c90ba35f.chunk.js.map": "/Jingle/static/js/787.c90ba35f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2db6b0.css",
+    "static/js/main.64edb5e6.js"
+  ]
+}
